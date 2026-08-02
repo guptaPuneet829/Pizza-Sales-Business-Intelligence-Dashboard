@@ -45,16 +45,16 @@ This dashboard answers these business questions through interactive visualizatio
 
 Performed backend analysis by writing SQL queries to calculate:
 
--> Total Revenue
--> Total Orders
--> Total Pizza Sold
--> Average Order Value
--> Average Pizzas per Order
--> Daily Sales Trends
--> Monthly Sales Trends
--> Sales by Pizza Category
--> Sales by Pizza Size
--> Best & Worst Selling Pizzas
+* Total Revenue
+* Total Orders
+* Total Pizza Sold
+* Average Order Value
+* Average Pizzas per Order
+* Daily Sales Trends
+* Monthly Sales Trends
+* Sales by Pizza Category
+* Sales by Pizza Size
+* Best & Worst Selling Pizzas
 
 ### 3️⃣ Power BI Dashboard
 
@@ -133,22 +133,6 @@ These insights help identify high-performing products and underperforming menu i
 
 > <img width="470" height="282" alt="Screenshot 2026-08-02 220904" src="https://github.com/user-attachments/assets/0bb20865-01aa-4bcd-b40b-55a4b7e263b5" />
 
-
-# 🚀 Skills Demonstrated
-
-* SQL Query Writing
-* PostgreSQL Database Management
-* Data Cleaning
-* Data Transformation
-* KPI Development
-* Business Intelligence
-* Power BI Dashboard Development
-* DAX Measures
-* Data Visualization
-* Trend Analysis
-* Product Performance Analysis
-* Business Analytics
-* Data Storytelling
 
 # 🔮 Future Improvements
 
